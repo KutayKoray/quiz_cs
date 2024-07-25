@@ -1,0 +1,13 @@
+# GET http://localhost:5079/users/username/sehersoydan
+
+# DELETE http://localhost:5079/deleteuser/5
+
+GET http://localhost:8000/users
+# Content-Type: application/json
+
+# {
+#     "Score" : 50,
+#     "Total_questions" : 5,
+#     "Correct_answers" : 4,
+#     "Wrong_answers" : 1
+# }

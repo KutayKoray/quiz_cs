@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kutaykoray/Projects/WebApplication1.Api/wwwroot/uploads/resim1.png",
+      "PackagePath": "staticwebassets/uploads/resim1.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebApplication1.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication1.Api.props",
+      "PackagePath": "build\\WebApplication1.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.Api.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication1.Api.props",
+      "PackagePath": "buildTransitive\\WebApplication1.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

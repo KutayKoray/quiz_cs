@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qPyO3GCq1yR/NV4uzc6ykxtZ0JMAgyGI6xixVD6Ozz0=",
+  "Source": "WebApplication1.Api",
+  "BasePath": "_content/WebApplication1.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1.Api/wwwroot",
+      "Source": "WebApplication1.Api",
+      "ContentRoot": "/Users/kutaykoray/Projects/WebApplication1.Api/wwwroot/",
+      "BasePath": "_content/WebApplication1.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
